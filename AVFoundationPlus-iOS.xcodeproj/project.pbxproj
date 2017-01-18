@@ -14,6 +14,7 @@
 		50B2DEBA18698C8D009BA2E9 /* AVFoundationPlus.h in CopyFiles */ = {isa = PBXBuildFile; fileRef = 50B2DEB918698C8D009BA2E9 /* AVFoundationPlus.h */; };
 		50B2DEDE18698CBA009BA2E9 /* AVCaptureDevice+AVPAdjusting.m in Sources */ = {isa = PBXBuildFile; fileRef = 50B2DEDB18698CBA009BA2E9 /* AVCaptureDevice+AVPAdjusting.m */; };
 		50B2DEDF18698CBA009BA2E9 /* AVCaptureDevice+AVPDeviceWithProperties.m in Sources */ = {isa = PBXBuildFile; fileRef = 50B2DEDD18698CBA009BA2E9 /* AVCaptureDevice+AVPDeviceWithProperties.m */; };
+		B6C820061E2F63F10097F03A /* AVAssetWriter+AVPFileSize.m in Sources */ = {isa = PBXBuildFile; fileRef = B6C820051E2F63F10097F03A /* AVAssetWriter+AVPFileSize.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -45,6 +46,8 @@
 		50B2DEDB18698CBA009BA2E9 /* AVCaptureDevice+AVPAdjusting.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "AVCaptureDevice+AVPAdjusting.m"; sourceTree = "<group>"; };
 		50B2DEDC18698CBA009BA2E9 /* AVCaptureDevice+AVPDeviceWithProperties.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "AVCaptureDevice+AVPDeviceWithProperties.h"; sourceTree = "<group>"; };
 		50B2DEDD18698CBA009BA2E9 /* AVCaptureDevice+AVPDeviceWithProperties.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "AVCaptureDevice+AVPDeviceWithProperties.m"; sourceTree = "<group>"; };
+		B6C820041E2F63F10097F03A /* AVAssetWriter+AVPFileSize.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "AVAssetWriter+AVPFileSize.h"; sourceTree = "<group>"; };
+		B6C820051E2F63F10097F03A /* AVAssetWriter+AVPFileSize.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "AVAssetWriter+AVPFileSize.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +93,8 @@
 			isa = PBXGroup;
 			children = (
 				50B2DEB918698C8D009BA2E9 /* AVFoundationPlus.h */,
+				B6C820041E2F63F10097F03A /* AVAssetWriter+AVPFileSize.h */,
+				B6C820051E2F63F10097F03A /* AVAssetWriter+AVPFileSize.m */,
 				50B2DEDA18698CBA009BA2E9 /* AVCaptureDevice+AVPAdjusting.h */,
 				50B2DEDB18698CBA009BA2E9 /* AVCaptureDevice+AVPAdjusting.m */,
 				50B2DEDC18698CBA009BA2E9 /* AVCaptureDevice+AVPDeviceWithProperties.h */,
@@ -158,6 +163,7 @@
 				509B2E9D18B4CE8100C76D2D /* AVCaptureSession+AVPInterfaceOrientation.m in Sources */,
 				50B2DEDF18698CBA009BA2E9 /* AVCaptureDevice+AVPDeviceWithProperties.m in Sources */,
 				509B2EA018B4CE8800C76D2D /* AVPCaptureVideoPreviewView.m in Sources */,
+				B6C820061E2F63F10097F03A /* AVAssetWriter+AVPFileSize.m in Sources */,
 				50B2DEDE18698CBA009BA2E9 /* AVCaptureDevice+AVPAdjusting.m in Sources */,
 				509B2EA318B4CF6700C76D2D /* AVCaptureSession+AVPDeviceOrientation.m in Sources */,
 			);
