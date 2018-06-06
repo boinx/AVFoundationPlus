@@ -105,7 +105,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0940;
-				ORGANIZATIONNAME = McZonk;
+				ORGANIZATIONNAME = "Boinx Software Ltd.";
 			};
 			buildConfigurationList = 50B2DEAC18698C8D009BA2E9 /* Build configuration list for PBXProject "AVFoundationPlus-OSX" */;
 			compatibilityVersion = "Xcode 3.2";
