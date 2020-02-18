@@ -140,11 +140,11 @@
 			};
 			buildConfigurationList = 50B2DEAC18698C8D009BA2E9 /* Build configuration list for PBXProject "AVFoundationPlus-iOS" */;
 			compatibilityVersion = "Xcode 3.2";
-			developmentRegion = English;
+			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
-				English,
 				en,
+				Base,
 			);
 			mainGroup = 50B2DEA818698C8D009BA2E9;
 			productRefGroup = 50B2DEB218698C8D009BA2E9 /* Products */;
